@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Jhazzmear Saytas', description: '', imageURL: '' },
   social: {
     linkedin: 'jhazzmearsaytas',
     x: '',
@@ -71,7 +71,7 @@ const CONFIG = {
     discord: '',
     telegram: '',
     website: '',
-    phone: 'By Request',
+    phone: '',
     email: 'jmbsaytas@gmail.com',
   },
   resume: {
@@ -79,20 +79,14 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Java',
+    'C#',
     'MySQL',
-    'PostgreSQL',
+    'Python',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'XAML',
+    'Networking Solutions',
+    'Virtual Machines',
   ],
   experiences: [
     {
@@ -155,7 +149,7 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
